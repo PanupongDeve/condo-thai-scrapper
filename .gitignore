@@ -1,0 +1,6 @@
+node_modules
+!syncStorage/
+syncStorage/*.json
+
+!public/images/tmp.txt
+public/images/*
