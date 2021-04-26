@@ -49,7 +49,7 @@ const detectRoomFigureURL = (el="") => {
 }
 
 const getCondoURL = (location, coordinates, page = 1) => {
-    return `https://www.condothai.co.th/search/map/${location}/12/${coordinates}?distance=10&page=${page}`
+    return `https://bbc.condothai.co.th/search/map/${location}/12/${coordinates}?distance=10&page=${page}`
 }
 
 const getPages = async (location, coordinates) => {

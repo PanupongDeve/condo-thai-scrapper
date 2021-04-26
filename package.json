@@ -14,6 +14,7 @@
     "cheerio": "^1.0.0-rc.6",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "facebook-nodejs-business-sdk": "^10.0.0",
     "request": "^2.88.2"
   }
 }
