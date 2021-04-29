@@ -8,5 +8,15 @@
         "location": "Surat%20Thani",
         "coordinates": "9.13315:99.31573",
         "fileName": "Surat_thani"
+    },
+    {
+        "location": "Chiang%20Mai",
+        "coordinates": "18.767:99.02616",
+        "fileName": "Chiang_Mai"
+    },
+    {
+        "location": "Pattaya",
+        "coordinates": "12.93473:100.90168",
+        "fileName": "Pattaya"
     }
 ]
