@@ -23,8 +23,8 @@ steps:
       displayName: 'run npm install'
 
     - script: |
-        chmod +x ./scripts/post.sh
-        ./scripts/post.sh
+        chmod +x ./scripts/sync-data.sh
+        ./scripts/sync-data.sh
       displayName: 'Sync Data from web'
 
     - script: |
