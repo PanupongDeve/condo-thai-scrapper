@@ -1,0 +1,26 @@
+pr: none
+trigger: none
+
+pool:
+      name: 'Default'
+      demands:
+        - agent.name -equals condothai-bot
+
+schedules:
+  - cron: "30 16 * * *"
+    displayName: Daily midnight build
+    branches:
+      include:
+        - master
+    always: true
+
+steps:
+    - script: |
+        chmod +x ./scripts/post.sh
+        ./scripts/post.sh
+      displayName: 'Sync Data from web'
+
+    - script: |
+        chmod +x ./scripts/post.sh
+        ./scripts/post.sh
+      displayName: 'Post Facebook'
