@@ -1,0 +1,46 @@
+[
+    {
+      access_token: 'EAAHUBtqi28oBAFvNYFAb3DMrnTEryVP0cZAEtGvKqiZBe0NgOEndEjPlfV6a28Bd80BZAP4umHZAg3aO7PxqsxrFo5KVxU2SzCJxmJ3KU5ZBx3HqXfB9OoFcHGpUU0sRVpX7iRinW20JF6ehOiGtXHdZCKhPsshvXam3tYZCREStQZDZD',
+      category: 'ที่อยู่อาศัย',
+      category_list: [ [Object] ],
+      name: 'คอนโดพัทยาให้เช่า/ขาย Pattaya Condo Rent & Sell',
+      id: '100450045533878',
+      tasks: [
+        'ANALYZE',
+        'ADVERTISE',
+        'MESSAGING',
+        'MODERATE',
+        'CREATE_CONTENT',
+        'MANAGE'
+      ]
+    },
+    {
+      access_token: 'EAAHUBtqi28oBANQHIUumntCqVZBYtQmv2XgbaZBnKKY9ZAVow4GW8LSQsFIeCcEQyRbwRj7c00an4ZCfdeCYJ9ZCWr2RnDH0AxZCykaHTj3o5G2UR1RD7lhSVcxZBki8QlFCTWWjFNUZACQhbjtZCjr1fk80sZB0q1JvmVOt2ELg0EiwZDZD',
+      category: 'ที่อยู่อาศัย',
+      category_list: [ [Object] ],
+      name: 'คอนโดภูเก็ตให้เช่า/ขาย Phuket Condo For Rent/Sell',
+      id: '103963291842047',
+      tasks: [
+        'ANALYZE',
+        'ADVERTISE',
+        'MESSAGING',
+        'MODERATE',
+        'CREATE_CONTENT'
+      ]
+    },
+    {
+      access_token: 'EAAHUBtqi28oBAC67rxwb1nWmyLkHEyGfc0Nv279lZCRiHybIvrU0hcagmlKo12LWGnZCCiUzFVKU2pHkgFfoD4ZBZC4ZAsuA7XpXXzL6tXqYZA7Il9vz9nzUJeeDv4oZAlR0BFebyeL0JjWjhe8nZA9VPfvxKioesc4bSOEH5ZBi0kAZDZD',
+      category: 'ที่อยู่อาศัย',
+      category_list: [ [Object] ],
+      name: 'คอนโดเชียงใหม่ให้เช่า-ขาย Chiangmai Condo Rent & Sell',
+      id: '109811484582330',
+      tasks: [
+        'ANALYZE',
+        'ADVERTISE',
+        'MESSAGING',
+        'MODERATE',
+        'CREATE_CONTENT',
+        'MANAGE'
+      ]
+    }
+  ]

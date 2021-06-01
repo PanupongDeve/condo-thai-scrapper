@@ -18,5 +18,10 @@
         "location": "Pattaya",
         "coordinates": "12.93473:100.90168",
         "fileName": "Pattaya"
+    },
+    {
+        "location": "Hua%20Hin%20(%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%AB%E0%B8%B4%E0%B8%99)",
+        "coordinates": "12.57627:99.9448",
+        "fileName": "Huahin"
     }
 ]
