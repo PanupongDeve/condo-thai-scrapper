@@ -15,6 +15,13 @@ schedules:
     always: true
 
 steps:
+    - task: NodeTool@0 
+      inputs:
+        versionSpec: '12.20.2'
+  
+    - script: 'npm install'
+      displayName: 'run npm install'
+
     - script: |
         chmod +x ./scripts/post.sh
         ./scripts/post.sh
